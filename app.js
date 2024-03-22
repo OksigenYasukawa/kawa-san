@@ -90,6 +90,7 @@ if (site.includes("youtube.com")) {
         "div",
         "class",
         "button-containerssss",
+        "<b>Brutal Deck</b>" +
         "<a href='https://www.youtube.com/@Akari_' class='buttonssss btn-1'>Akari</a>" +
         "<a href='https://www.youtube.com/@alwisusilo' class='buttonssss btn-1'>alwisusilo</a>" +
         "<a href='https://www.youtube.com/@Amarynn_' class='buttonssss btn-1'>Amarynn</a>" +
