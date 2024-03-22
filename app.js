@@ -13,6 +13,9 @@ function Create_Custom_Element(tag, attr_tag, attr_name, value) {
 
 if (site.includes("youtube.com")) {
     Add_Custom_Style(`
+        .ytd-app {
+          margin-right: 160px;
+        }
         #js-custom-element-up {
             font-size: 60px;
             padding: 150px 0;
