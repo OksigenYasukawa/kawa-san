@@ -1,0 +1,21 @@
+{
+    "name": "Kawa-san",
+    "description": "Untuk memudahkan seorang Oksigen Yasukawa",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/*",
+                "https://*.google.com/*"                
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ],
+    "icons": {
+        "48": "PP.png",
+        "128": "PP.png"
+    }
+}
